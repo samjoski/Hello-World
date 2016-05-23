@@ -3,3 +3,5 @@ adding files to a repository using
 the Windows Command Prompt.
 
 This was added after the fact.
+
+The Badger State is Wisconsin.

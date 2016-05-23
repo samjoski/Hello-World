@@ -1,5 +1,5 @@
 On my first day at work I tested
 adding files to a repository using
-the windows command prompt.
+the Windows Command Prompt.
 
-This is added after the fact.
+This was added after the fact.

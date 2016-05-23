@@ -10,5 +10,6 @@ The Badger State is Wisconsin.
 The Hoosier State is Indiana.
 The Sunshine State is Florida.
 The Lone Star State is Texas.
+The Golden State is California
 
 Bottom Line
